@@ -1,0 +1,28 @@
+body{
+    background: rgba(59, 59, 59, 0.8);
+}
+
+p {
+    color: red;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+
+span {
+    letter-spacing: 1px;
+}
+
+b {
+    color: purple;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.test{
+    background: linear-gradient(to right bottom, rgba(255,255,255, 0.3), rgba(255, 255, 255, 0.7));
+    backdrop-filter: blur(2rem);
+    border-radius: 10px;
+}
